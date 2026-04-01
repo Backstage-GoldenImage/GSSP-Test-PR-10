@@ -6,9 +6,9 @@ metadata:
   description: Service  GSSP-Test-PR-10
 
   annotations:
-    github.com/project-slug: Backstage-GoldenImage/ GSSP-Test-PR-10
+    github.com/project-slug: Backstage-GoldenImage/GSSP-Test-PR-10
     backstage.io/techdocs-ref: dir:.
-    jenkins.io/job-full-name: Backstage_GoldenImage/ GSSP-Test-PR-10/main
+    jenkins.io/job-full-name: Backstage_GoldenImage/GSSP-Test-PR-10/main
     argocd/app-name:  gssp-test-pr-10
     backstage.io/kubernetes-id:  GSSP-Test-PR-10
     backstage.io/kubernetes-namespace: default
